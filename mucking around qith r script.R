@@ -8,3 +8,7 @@ library(tidyverse)
 
 
 #trying some more 
+
+#why wont these stick 
+
+#make a change
